@@ -1,0 +1,9 @@
+*{padding: 0;margin: 0;}
+header{background-image: url('../images/apple-pie.jpg');background-size: cover;background-repeat: no-repeat;background-position: center;position: relative;height: 42rem;}
+h1{text-align: center;color: white;font-size: 50px;top: 50%; left: 50%;position: absolute; translate:  -50% -50%;}
+h2{margin: 50px;font-size: 30px;}
+.intro{text-align: center;font-size: 30px;margin: 50px;}
+#recipe-info{width: 500px;height: 100px;padding: 50px,50px;}
+.theImage{text-align: center;}
+#cooking-info{width: 500px;height: 100px;padding: 50 px, 50px;}
+.instructions{font-size: 20px;margin: 50px;}
